@@ -1,0 +1,33 @@
+# 🧱 Dependencias
+node_modules/
+
+# 🏗️ Archivos de construcción
+build/
+dist/
+
+# 🧪 Logs y temporales
+*.log
+*.tmp
+*.lock
+
+# ⚙️ Configuración de entorno
+.env
+.env.local
+.env.*.local
+
+# 🧠 Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# 🛠️ Archivos de configuración de IDEs
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# 🧪 Coverage y testing
+coverage/
+.nyc_output/
+
+# 🔒 Archivos sensibles o personalizados
+#production#
